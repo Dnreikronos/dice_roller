@@ -26,4 +26,12 @@ input{
     width: 150px;
     text-align: center;
     font-weight: bold;
+    border-radius: 5px;
+}
+#diceResult{
+    margin: 25px;
+}
+#diceImages img{
+    margin: 5px;
+    width: 150px;
 }
